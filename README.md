@@ -6,13 +6,6 @@
 [![Built with Vite](https://img.shields.io/badge/built%20with-Vite-646CFF)](https://vitejs.dev)
 [![Powered by Gemini](https://img.shields.io/badge/AI-Google%20Gemini-4285F4)](https://ai.google.dev)
 
----
-
-## Challenge Vertical
-
-**Challenge 3 — Carbon Footprint Awareness Platform**
-
-EcoTrace helps individuals understand, track, and reduce their personal carbon footprint through a guided quiz, interactive visualisations, curated reduction tips, and AI-powered insights from Google Gemini.
 
 ---
 
